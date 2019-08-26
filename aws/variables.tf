@@ -32,6 +32,6 @@ variable "nodes_count" {
 
 
 variable "domain" {
-  default = "example.com"
+  default = "hazzim.io"
   description = "Base domain name for the Openshift cluster."
 }

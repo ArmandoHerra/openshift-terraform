@@ -14,7 +14,7 @@ variable "secret_key" {}
 
 variable "use_gluster" {}
 
-variable "provider" {}
+#variable "provider" {}
 
 variable "cluster_id" {}
 

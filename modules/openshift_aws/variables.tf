@@ -62,7 +62,7 @@ variable "node_prefix" {
 }
 
 variable "domain" {
-  default = "example.com"
+  default = "hazzim.io"
   description = "Base domain name for the Openshift cluster."
 }
 
